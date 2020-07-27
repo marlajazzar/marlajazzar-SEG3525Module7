@@ -1,0 +1,11 @@
+Ce code est inspiré par les videos suivants 
+https://www.youtube.com/watch?v=bPTX8DuJxUE
+https://www.youtube.com/watch?v=Fy9SdZLBTOo
+https://www.youtube.com/watch?v=43ZbaI21_IM
+https://www.youtube.com/watch?v=-edmQKcOW8s
+https://www.milkjar.ca/shopcandles
+https://medium.com/@kevinsimper/full-width-youtube-embed-with-react-js-responsive-embed-509de7e7c3bf
+https://www.youtube.com/watch?v=m3SOwcXUsIQ
+http://thechilltimes.com/6-benefits-of-burning-candles-in-your-home/
+https://www.youtube.com/watch?v=jl-9vlEz288&list=PLxt4i7QVE688uZOJd3kVzkCXHuMziCy0M&index=11
+
