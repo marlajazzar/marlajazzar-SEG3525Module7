@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Downloads/Assign2-2"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../candleLit"
+		},
+		{
+			"path": "../../../../candle"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "REACT.REDUX-COMPLETE"
+	}
+}
